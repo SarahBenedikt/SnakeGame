@@ -23,9 +23,6 @@
     <li>Navigate to the project directory:
         <pre><code>cd SnakeGame</code></pre>
     </li>
-    <li>Install the required dependencies:
-        <pre><code>pip install -r requirements.txt</code></pre>
-    </li>
 </ol>
 
 <h2 id="how-to-play">How to Play</h2>
